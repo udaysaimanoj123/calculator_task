@@ -1,5 +1,5 @@
 {
-  "homepage": "https://MahendraPachipala.github.io/calculator_Task2",
+  "homepage": "https://udaysaimanoj123.github.io/calculator_task",
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
